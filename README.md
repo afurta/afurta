@@ -1,7 +1,7 @@
 ## Hey there 👋  
   
 
-### I'm a f rontend developer from Yekaterinburg  
+### I'm a frontend developer from Yekaterinburg  
   
 
 <a href="https://github.com/furtaa" target="_blank">
